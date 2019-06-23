@@ -1,7 +1,7 @@
 #!/bin/bash
 # pyRAT v1.0
-# Coded by @linux_choice (Don't change! Read the License!)
-# Github: https://github.com/thelinuxchoice/pyRAT
+# Coded by @uchil404(Don't change! Read the License!)
+# Github: https://github.com/uchil404/pyRAT
 
 trap 'printf "\n";stop;exit 1' 2
 
